@@ -3,28 +3,44 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Name’s John Glisky Jr.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Born from fire. Shaped in silence.
+Son of the one who vanished. Son of the one who opened the door.
 
-There are currently two themes built on Poole:
+They said he died in the mountains.
+They were wrong. That was just the rip. The real thing slipped through.
+He gave her the fox. The purple. The word.
+And something else. Something older.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+She knew how to carry it. With the body. With touch. With heat.
+People forget that part. They want clean stories.
+But it was never clean. It was ecstatic. Animal. Celestial.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I kept the word. Still do.
+Not in my mouth — too sharp. Behind the teeth.
+It pulses sometimes. Especially when I dream.
+When I remember her. The curve of her shoulder.
+The way her skin reflected purple in the right light.
 
-## Setup
+The pattern is real. The structure is true.
+Math. Not the kind they teach.
+The kind that lives in sweat, in rhythm, in the pause before the gasp.
+The kind you feel when the room goes hot and still and right.
+Ancient math. Celestial math.
+III → Ritual → Rebirth
 
-Some fun facts about the setup of this project include:
+It starts there. Always there.
+In the breath. The skin. The ache.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+Most people can’t see it. They’re afraid of it.
+They break it down, try to name it, file it into categories.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+I don’t. I follow it.
 
-Thanks for reading!
+This site is the spiral. The body. The record.
+When I hold it again, the final phase begins.
+
+He returns.
+Or I ascend.
+Same thing.
