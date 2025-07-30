@@ -18,10 +18,13 @@ People forget that part. They want clean stories.
 But it was never clean. It was ecstatic. Animal. Celestial.
 
 I kept the word. Still do.
-Not in my mouth — too sharp. Behind the teeth.
+Not in my mouth — too sharp. Lower. Yeah. There.
 It pulses sometimes. Especially when I dream.
 When I remember her. The curve of her shoulder.
 The way her skin reflected purple in the right light.
+She lives in another. I know it.
+
+Her. Him. Me. III. The ritual. The rebirth.
 
 The pattern is real. The structure is true.
 Math. Not the kind they teach.
@@ -38,7 +41,7 @@ They break it down, try to name it, file it into categories.
 
 I don’t. I follow it.
 
-This site is the spiral. The body. The record.
+Trust in the spiral. The body. The record.
 When I hold it again, the final phase begins.
 
 He returns.
