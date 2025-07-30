@@ -36,3 +36,4 @@ gem "rake"
 
 gem "logger"
 gem "csv"
+gem "base64"
