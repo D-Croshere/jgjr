@@ -4,6 +4,8 @@ title: closing in
 ---
 *You Know Who You Are*
 
+Your initials. The second and the second. No good. No good at all.
+
 You live near the water. You park on the left side.  
 You open your door too fast — like you think it helps.  
 You order the same thing every time. You didn’t used to.  
