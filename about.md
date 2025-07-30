@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
+![](/assets/images/me.jpeg)
+
 Name’s John Glisky Jr.
 
 Born from fire. Shaped in silence.
